@@ -9,7 +9,7 @@ Link: https://medium.com/@arifulislam_ron/flask-web-application-to-classify-imag
 Author: Arif Ul Islam (Ron)
 
 # File Structure:
-
+```
 Project
 │   index.py
 │   main.py 
@@ -23,7 +23,7 @@ Project
 │   	  index.html
 │          
 └───static (uploaded images will be stored here) -- must be named "static"
-       
+```       
 Note: Within the index.py and main.py files, you may need to change some file paths to match your system path structure. Within the main.py file, change the paths for line 14 and 15. Within the index.py file, change the paths for lines 14 and 41.
 
 # How to run this app locally:
